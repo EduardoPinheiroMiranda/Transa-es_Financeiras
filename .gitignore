@@ -9,4 +9,4 @@ src/database/*.db
 .env.test
 
 #build 
-build
+dist

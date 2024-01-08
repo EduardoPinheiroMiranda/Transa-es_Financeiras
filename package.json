@@ -11,7 +11,7 @@
     "dev": "tsx watch src/server.ts",
     "knex": "node --import=tsx ./node_modules/.bin/knex",
     "test": "vitest",
-    "build": "tsup src --format cjs --legacy-output"
+    "build": "tsup src"
   },
   "author": "",
   "license": "ISC",
