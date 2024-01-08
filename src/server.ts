@@ -4,5 +4,5 @@ import { env } from './env'
 app.listen({
 	port: env.PORT
 }).then(() => {
-	console.log('Servidor ativado, http://localhost:3000')
+	console.log('Server runing')
 }) 
